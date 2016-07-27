@@ -18,6 +18,8 @@ iOS 9.1 and later
 2.  Clone the repo or download the zip file
 4.  Build and run
 
+### Details:
+
 ##### ViewControllers:
 1. **MasterViewController:**  Shows a list of restaurants in an UITableView.  A UISegmentedControl is used to filter restaurants by name and by distance.
 2. **DetailViewController:**  Displays restaurants as pins on a MKMapView along with some info about the restaurants.
